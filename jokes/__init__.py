@@ -1,0 +1,4 @@
+jokes = [
+    "hi",
+    "hello"
+]
