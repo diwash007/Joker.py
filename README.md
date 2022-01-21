@@ -7,7 +7,7 @@ A simple python package to get jokes and puns.
 
 ## How to use?
 
-You can use this by package from [Joker.py]()
+You can use this by package from [Joker.py](https://pypi.org/project/joker.py/)
 ```sh
 pip install joker.py
 ```

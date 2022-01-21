@@ -1,6 +1,6 @@
 """ joker package """
 import random
-from jokes import joke_list, pun_list
+from .jokes import joke_list, pun_list
 
 
 class Joker:
