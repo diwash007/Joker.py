@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/joker/__init__.py
+src/joker/joker.py
+src/joker.py.egg-info/PKG-INFO
+src/joker.py.egg-info/SOURCES.txt
+src/joker.py.egg-info/dependency_links.txt
+src/joker.py.egg-info/top_level.txt
+src/joker/jokes/__init__.py
