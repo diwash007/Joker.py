@@ -32,6 +32,13 @@ for pun in puns:
 
 ```
 
+## Available functions
+
+- joke() - returns a random joke
+- jokes(n) - returns n random jokes
+- pun() - returns a random pun
+- puns(n) - returns n random puns
+
 ## Want To Contribute?
 
 You can send a pull request or open an issue to contribute.
