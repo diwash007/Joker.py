@@ -46,4 +46,4 @@ Check out [Code Of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## License
 
-[MIT Liscense](lICENSE)
+[MIT Liscense](LICENSE)
