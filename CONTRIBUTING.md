@@ -86,43 +86,9 @@ git push -u origin <your_branch_name>
 
 7. Cick on Create pull request.
 
-## Setup the project in your Local Machine:
+That's it we setup the project into our local machine.
 
-### Download project from Github
-
-- If you're a Windows user, first install [git](https://git-scm.com/). This tool helps you run git from the command line.
-
-1. Open a new Terminal (Mac) or Command Prompt (Windows) window and use the following command to create a unique directory to do your work in:
-
-```
-mkdir <new-project-folder>
-```
-
-```
-cd <new-project-folder>
-```
-
-2. Next, use this command to clone the app repository:
-
-```
-git clone https://github.com/user-name/Joker.py.git
-```
-
-3. Check Remote
-
-```
-git remote -v
-```
-
-4. Create a new branch for your assigned issue
-
-```
-git checkout -b <branch-name>
-```
-
-That's it we setup the project into our local machine. Now follow the same procedure for making a Pull Request.
-
-- Congrats :exclamation: You have made a PR to the PDF-Dark-Mode :boom: . Wait for your submission to be accepted and your PR to be merged.
+- Congrats!!! You have made a PR to the Joker.py. Wait for your submission to be accepted and your PR to be merged.
 
 - Wait for the pull request to be reviewed by a maintainer. Make changes to the pull request if the reviewing maintainer recommends them.
 
