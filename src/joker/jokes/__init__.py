@@ -76,4 +76,5 @@ pun_list = [
     "What was Forrest Gump’s email password? 1forrest1",
     "Can February March? No, but April May.",
     "Ladies, if he can’t appreciate your fruit jokes, you need to let that mango.",
+    "Why are skeletons so good at chopping down trees? They’re LUMBARjacks!"
 ]
