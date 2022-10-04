@@ -1,6 +1,5 @@
 # Joker.py
 
-
 ## About
 
 A simple python package to get jokes and puns.
@@ -8,6 +7,7 @@ A simple python package to get jokes and puns.
 ## How to use?
 
 You can use this by package from [Joker.py](https://pypi.org/project/joker.py/)
+
 ```sh
 pip install joker.py
 ```
@@ -43,3 +43,7 @@ for pun in puns:
 
 You can send a pull request or open an issue to contribute.
 Check out [Code Of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
+## License
+
+[MIT Liscense](lICENSE)
