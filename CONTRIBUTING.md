@@ -41,7 +41,7 @@ where `user-name` is your GitHub username. Here you're copying the contents of t
 - After cloning the project in your computer, navigate to the project file using the command below.
 
 ```
-cd PDF-Dark-Mode
+cd Joker.py
 ```
 
 ## Create a new branch
