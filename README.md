@@ -42,7 +42,7 @@ for pun in puns:
 ## Want To Contribute?
 
 You can send a pull request or open an issue to contribute.
-Check out [Code Of Conduct](CODE_OF_CONDUCT.md) before contributing.
+Check out [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before contributing.
 
 ## License
 
